@@ -13,12 +13,6 @@ It uses a fixed key value of 3 to encrypt the input message by shifting each cha
 - To implement character shifting using Java.
 - To understand how a key is used in a simple encryption technique.
 
-## Technologies Used
-
-- Java
-- Scanner Class
-- Character Manipulation
-- Loops
 
 ## Algorithm
 
